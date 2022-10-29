@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Praktikum1</string>
+    <string name="length">Panjang</string>
+    <string name="Width">Lebar</string>
+    <string name="Heigth">Tinggi</string>
+    <string name="Calculate">Hitung</string>
+    <string name="Result">Hasil</string>
+</resources>
